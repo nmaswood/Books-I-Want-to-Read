@@ -3,7 +3,7 @@ QUEUE:
 * Pearls of Programming
 * Design of Everyday Things
 * Crucial Convserations
-
+* Innovator's Dilemma
 
 # Data
 * Computer Vision with Python
