@@ -39,7 +39,11 @@
 
 # Learn how to think like this
 
-* Hackers and Painters
+* Hackers and Painters READ
+* Programming Pearls
 * Pragmatic Programmer
 
+# People
+* Crucial Conversations and the rest of Alex Levy books
 # Misc
+
