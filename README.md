@@ -1,3 +1,10 @@
+QUEUE:
+
+* Pearls of Programming
+* Design of Everyday Things
+* Crucial Convserations
+
+
 # Data
 * Computer Vision with Python
 * OpenCV Computer Vision with Python
