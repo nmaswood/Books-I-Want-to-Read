@@ -6,8 +6,10 @@ QUEUE:
 * Innovator's Dilemma
 
 # Data
+*  Understanding machine learning from theory to algorithms ( Aritra and Shubhendu)
 * Computer Vision with Python
 * OpenCV Computer Vision with Python
+
 
 # Learn how to do X
 * Introducing SEO
@@ -30,6 +32,8 @@ QUEUE:
 * Godel, Escher, Bach
 * Cauchy Schwarz Master Class
 * How Computers do Math
+* Love and Math: The Heart of Hidden Reality ( Aritra Research)
+
 
 # Functional
 * Becoming Functional
