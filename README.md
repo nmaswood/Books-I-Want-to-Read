@@ -1,26 +1,26 @@
-QUEUE:
+STARTED:
+* Team Geek
 
-* Pearls of Programming
-* Design of Everyday Things
+READ:
+
 * Crucial Convserations
-* Innovator's Dilemma
+* Hackers and Painters
+
+ABANDONED:
+
+* Understanding machine learning from theory to algorithms ( Aritra and Shubhendu)
+* A First Look at Rigorous Proabability Theory
 
 # Data
-*  Understanding machine learning from theory to algorithms ( Aritra and Shubhendu)
 * Computer Vision with Python
 * OpenCV Computer Vision with Python
 
-
 # Learn how to do X
 * Introducing SEO
-* Mastering Javascript
-* Secrets of JS Ninja ( kind of old though)
 * Nginx
 * Neural Network Design
 * Mastering Git
-* Mastering Linux Shell Scripting
 * Build a Compiler
-* A First Look at Rigorous Proabability Theory
 * Regular Expressions Cookbook
 * Little Book on OS Development
 * Little Book on Semaphores
@@ -29,32 +29,17 @@ QUEUE:
 * Elementary Number Theory with Programming
 * Linear Algebra Done Wrong
 * Graph Theory
-* Godel, Escher, Bach
-* Cauchy Schwarz Master Class
 * How Computers do Math
 * Love and Math: The Heart of Hidden Reality ( Aritra Research)
-
 
 # Functional
 * Becoming Functional
 * Type Theory and Programming
 
 # Design
-* CSS Mastery
 * Design Patterns Gang of Four
-* SVG Colors, Patterns and Gradients
-
-# C
-
-* 21 Century C
 
 # Learn how to think like this
 
-* Hackers and Painters READ
 * Programming Pearls
 * Pragmatic Programmer
-
-# People
-* Crucial Conversations and the rest of Alex Levy books
-# Misc
-
